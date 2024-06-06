@@ -10,3 +10,12 @@
 - https://github.com/Boyquotes/wordsGame_tips
 - https://github.com/Boyquotes/awesome_enable3d
 - https://github.com/Boyquotes/Docker-tips
+- https://github.com/Boyquotes/No-Code-tips
+- https://github.com/Boyquotes/solana_tips
+- https://github.com/Boyquotes/godot_tips
+- https://github.com/Boyquotes/mac_tips
+- https://github.com/Boyquotes/git_tips
+- https://github.com/Boyquotes/PYTHON_TIPS
+- https://github.com/Boyquotes/rotki_tips
+- https://github.com/Boyquotes/JS_tips
+  
